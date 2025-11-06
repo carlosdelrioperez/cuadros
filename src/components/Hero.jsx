@@ -25,7 +25,7 @@ export default function Hero() {
       {/* Contenido */}
       <div className="relative z-10 max-w-2xl px-6">
         <h1 className="text-5xl md:text-6xl font-serif mb-6 tracking-tight">
-          La Esencia del Arte en Cada Trazo
+          Ángela Ríos
         </h1>
         <p className="text-lg md:text-xl mb-8 text-gray-200">
           Descubre una colección única de cuadros que capturan emociones,
