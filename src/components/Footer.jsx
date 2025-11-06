@@ -10,14 +10,13 @@ export default function Footer() {
         {/* Información principal */}
         <div className="text-center md:text-left">
           <h3 className="text-xl font-serif text-gray-900 mb-2">
-            Carlos del Río Pérez
+            Ángela Ríos Martínez
           </h3>
           <p className="text-gray-600">
             © {new Date().getFullYear()} Todos los derechos reservados.
           </p>
         </div>
 
-        {/* Contacto */}
         <div className="flex flex-col items-center md:items-end space-y-3">
           <h4 className="text-lg font-medium text-gray-800">Contacto</h4>
           <div className="flex items-center space-x-2 hover:text-gray-900 transition">

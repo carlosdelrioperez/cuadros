@@ -5,7 +5,7 @@ export default function Gallery() {
   const artworks = [
     {
       id: 1,
-      src: "/descarga.jpeg",
+      src: "/cerdo.jpg",
       title: "Atardecer en calma",
       price: "250 €",
       description:
@@ -13,7 +13,7 @@ export default function Gallery() {
     },
     {
       id: 2,
-      src: "/descarga (1).jpeg",
+      src: "/conejo.jpg",
       title: "Sombras del tiempo",
       price: "300 €",
       description:
@@ -21,7 +21,7 @@ export default function Gallery() {
     },
     {
       id: 3,
-      src: "/descarga.jpeg",
+      src: "/escultura.jpg",
       title: "Reflejos de la memoria",
       price: "280 €",
       description:
@@ -29,7 +29,7 @@ export default function Gallery() {
     },
     {
       id: 4,
-      src: "/descarga.jpeg",
+      src: "/esculturaconejo.jpg",
       title: "El eco del color",
       price: "320 €",
       description:
@@ -37,7 +37,7 @@ export default function Gallery() {
     },
     {
       id: 5,
-      src: "/descarga (1).jpeg",
+      src: "/flor.jpg",
       title: "Luz interior",
       price: "260 €",
       description:
@@ -45,7 +45,63 @@ export default function Gallery() {
     },
     {
       id: 6,
-      src: "/descarga.jpeg",
+      src: "/gorda.jpg",
+      title: "Horizonte perdido",
+      price: "290 €",
+      description:
+        "Una invitación a explorar lo desconocido, donde el horizonte se convierte en una metáfora de la esperanza.",
+    },
+    {
+      id: 7,
+      src: "/loca.jpg",
+      title: "Horizonte perdido",
+      price: "290 €",
+      description:
+        "Una invitación a explorar lo desconocido, donde el horizonte se convierte en una metáfora de la esperanza.",
+    },
+    {
+      id: 8,
+      src: "/loco.jpg",
+      title: "Horizonte perdido",
+      price: "290 €",
+      description:
+        "Una invitación a explorar lo desconocido, donde el horizonte se convierte en una metáfora de la esperanza.",
+    },
+    {
+      id: 9,
+      src: "/malito.jpg",
+      title: "Horizonte perdido",
+      price: "290 €",
+      description:
+        "Una invitación a explorar lo desconocido, donde el horizonte se convierte en una metáfora de la esperanza.",
+    },
+    {
+      id: 10,
+      src: "/miedo.jpg",
+      title: "Horizonte perdido",
+      price: "290 €",
+      description:
+        "Una invitación a explorar lo desconocido, donde el horizonte se convierte en una metáfora de la esperanza.",
+    },
+    {
+      id: 11,
+      src: "/pie.jpg",
+      title: "Horizonte perdido",
+      price: "290 €",
+      description:
+        "Una invitación a explorar lo desconocido, donde el horizonte se convierte en una metáfora de la esperanza.",
+    },
+    {
+      id: 12,
+      src: "/tetas.jpg",
+      title: "Horizonte perdido",
+      price: "290 €",
+      description:
+        "Una invitación a explorar lo desconocido, donde el horizonte se convierte en una metáfora de la esperanza.",
+    },
+    {
+      id: 13,
+      src: "/vieja.jpg",
       title: "Horizonte perdido",
       price: "290 €",
       description:
